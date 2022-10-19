@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- I’m @Tech Enthusiastic That's always interested Learning About Web development , Mobile development , DevOps , blockchain and many more.....<br><br>- 👀 I’m interested in Finance Also <br>- 🌱 I’m currently learning Mobile development<br>-  ❤️ I love to travel and exploring world.</p>
+<p align="left">- I’m @Tech Enthusiastic That's always interested Learning About Web development , Mobile development , DevOps , blockchain , machine learning and many more.....<br><br>- 👀 I’m interested in Finance Also <br><br>- 🌱 I’m currently learning Mobile development<br><br>-  ❤️ I love to travel and exploring world.</p>
 
 ###
 
@@ -55,6 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
 </div>
 
 ###
@@ -64,8 +66,3 @@
 </div>
 
 ###
-Profile Readme Generator
-<!---
-OpensourceContributor07/OpensourceContributor07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
